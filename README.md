@@ -1,2 +1,3 @@
 # StudentManagementSystem
-A Spring Boot project for managing Students.
+
+A Spring Boot and Thymeleaf project for managing students.
